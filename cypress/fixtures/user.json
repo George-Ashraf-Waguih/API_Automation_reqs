@@ -1,0 +1,10 @@
+{
+    "newUser": {
+      "name": "George",
+      "job": "Footballer"
+    },
+    "updatedUser": {
+      "name": "Fady",
+      "job": "Pilot"
+    }
+  }
