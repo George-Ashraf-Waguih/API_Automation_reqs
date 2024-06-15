@@ -1,10 +1,15 @@
 # API_Automation_reqs
 API automation framework covering the following:
-    
+ - Direct API requests (using 'https://reqres.in/api')   
     - GET requests 
     - POST requests
     - PUT requests
     - DELETE requests
+
+- XHR requests (using 'https://example.cypress.io/commands/network-requests') while mocking server response  
+    - GET requests 
+    - POST requests 
+    - PUT requests
         
 
 This framework uses:
@@ -13,4 +18,4 @@ This framework uses:
 
 + Can be added to the jenkins CI pipeline
 
-+ Reports are included and can be extracted in html format 
++ Reports are included and can be extracted 
